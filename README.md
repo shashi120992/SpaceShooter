@@ -10,7 +10,6 @@
 <img src="/Atachments/1.png" width="40%" height="40%"> &nbsp&nbsp
 <img src="/Atachments/2.png" width="40%" height="40%"> &nbsp&nbsp
  </p>
- <hr>
  <p align="center">
 <img src="/Atachments/4.png" width="40%" height="40%"> &nbsp&nbsp
 <img src="/Atachments/5.png" width="40%" height="40%"> &nbsp&nbsp
